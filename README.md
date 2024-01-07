@@ -28,5 +28,19 @@ export PATH="/Users/danielowen/.npm-global/bin/:$PATH"
 ## 💪 The AWS Lambda Function
 The AWS Lambda function can be found in this [`model.py` file](https://github.com/daniel-owen/moviebot/blob/master/aws-lambda/model.py).
 
-## 🐞 Question + Bug Fixes
-Feel free to contact me at [daniel.owen@email.com](mailto:daniel.owen@email.com) for more information about this project. This project is a replication inspired by Steven Tey's Moviebot.
+💪 Technologies Used
+Languages: Python, HTML/CSS, JavaScript
+Frameworks: Flask (Python), Vercel (Frontend Deployment)
+Cloud Platform: AWS Lambda
+Tools: Git, GitHub
+🧠 Machine Learning Technique
+The machine learning technique employed in this project is a content-based recommendation system. The recommendation algorithm relies on NLP (Natural Language Processing) techniques to analyze and understand user queries. By utilizing a cosine-similarity algorithm, the chatbot identifies patterns in movie preferences based on textual data, enhancing its ability to provide relevant movie recommendations to users.
+
+🐞 Question + Bug Fixes
+Contact daniel.owen@email.com for project details. This replication is inspired by Steven Tey's Moviebot, showcasing a blend of techniques, tools, and frameworks in NLP, web development, and cloud deployment.
+
+
+
+
+
+
