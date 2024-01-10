@@ -1,7 +1,7 @@
 # 🤖 Moviebot - Daniel Owen's Version
 Code repository for Moviebot – an NLP-powered movie recommendation chatbot, written in Python, HTML/CSS, and JavaScript, hosted on Vercel + AWS Lambda.
 
-![](https://github.com/daniel-owen/moviebot/blob/master/static/assets/thumbnail.gif)
+
 
 This is a personal project inspired by Steven Tey's Moviebot, created as part of my exploration into practical data science.
 
@@ -26,7 +26,7 @@ export PATH="/Users/danielowen/.npm-global/bin/:$PATH"
 ```
 
 ## 💪 The AWS Lambda Function
-The AWS Lambda function can be found in this [`model.py` file](https://github.com/daniel-owen/moviebot/blob/master/aws-lambda/model.py).
+The AWS Lambda function can be found in this [`model.py` file](https://github.com/daniel-owen/movie-recommendation-chatbot/blob/master/aws-lambda/model.py).
 
 💪 Technologies Used
 Languages: Python, HTML/CSS, JavaScript
@@ -37,7 +37,7 @@ Tools: Git, GitHub
 The machine learning technique employed in this project is a content-based recommendation system. The recommendation algorithm relies on NLP (Natural Language Processing) techniques to analyze and understand user queries. By utilizing a cosine-similarity algorithm, the chatbot identifies patterns in movie preferences based on textual data, enhancing its ability to provide relevant movie recommendations to users.
 
 🐞 Question + Bug Fixes
-Contact daniel.owen@email.com for project details. This replication is inspired by Steven Tey's Moviebot, showcasing a blend of techniques, tools, and frameworks in NLP, web development, and cloud deployment.
+Contact Unlimiteddemi@gmail.com for project details. This replication is inspired by Steven Tey's Moviebot, showcasing a blend of techniques, tools, and frameworks in NLP, web development, and cloud deployment.
 
 
 
